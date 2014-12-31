@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Linux Mint"
+date:   2014-12-31 21:28:58
+categories: software
+tags: Linux Mint
+---
+
 Linux Mint
 ==========
 #About
