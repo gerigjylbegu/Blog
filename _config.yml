@@ -11,7 +11,7 @@ title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
 url:              'http://gerigjylbegu.github.io/Blog'
-baseurl:          ''
+baseurl:          'http://localhost:4000'
 
 # Navigation
 navigation:
