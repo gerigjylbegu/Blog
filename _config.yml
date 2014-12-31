@@ -10,8 +10,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              'http://gerigjylbegu.github.io'
-baseurl:          ''
+url:              'http://gerigjylbegu.github.io/Blog'
+baseurl:          'http://localhost:4000'
 
 # Navigation
 navigation:
@@ -19,8 +19,6 @@ navigation:
   url: /about/
 - text: Blog
   url: /blog/
-- text: Tags
-  url: /tags/
 - text: Archive
   url : /archive/
 
