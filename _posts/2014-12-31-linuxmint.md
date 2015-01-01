@@ -24,3 +24,5 @@ Some of the reasons for the success of Linux Mint are:
 ###[Linux Mint 13 "Maya"](http://www.linuxmint.com/release.php?id=18)
 
 ###[Linux Mint 17 "Qiana"](http://www.linuxmint.com/release.php?id=22)
+
+###[Linux Mint 17.1 "Rebeca"](http://www.linuxmint.com/release.php?id=23)
