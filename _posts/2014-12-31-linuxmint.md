@@ -6,8 +6,6 @@ categories: software
 tags: Linux Mint
 ---
 
-Linux Mint
-==========
 #About
 The purpose of Linux Mint is to produce a modern, elegant and comfortable operating system which is both powerful and easy to use.
 
