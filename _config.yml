@@ -7,7 +7,7 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Abot Linux'
+title:            'About Linux'
 tagline:          'Linux fances'
 description:      'Learn anything about Linux'
 url:              'http://blogeri.fs.al'
