@@ -12,7 +12,7 @@ This is my personal website and blog where I put down my thoughts, solutions to 
 
 Linux is an open source operating system.It is fast and secure.Linux has no viruses,because all applications which can be installed are at linux software center.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/gerigjylbegu/Blog/gh-pages/assets/images/About%20Me/ubuntu-software-center-ubuntu12.04.png">
 
 ## About this Site
 
