@@ -33,7 +33,7 @@ author:         'Geri Gjylbegu'
 gahandler: 'UA-52149651-1'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'blogerifsal'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
