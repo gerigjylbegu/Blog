@@ -5,6 +5,8 @@ date:   2015-06-25 17:28:58
 categories: software
 tags: Linux Chromixium
 ---
+
+#About
 Chromixium combines the elegant simplicity of the Chromebook with the flexibility and stability of Ubuntu’s Long Term Support release. 
 Chromixium puts the web front and center of the user experience. 
 Web and Chrome apps work straight out of the browser to connect you to all your personal, work and education networks. 
