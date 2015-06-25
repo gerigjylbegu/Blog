@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu"
+title:  "Chromixium"
 date:   2015-06-25 17:28:58
 categories: software
 tags: Linux Chromixium
