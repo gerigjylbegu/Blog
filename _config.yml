@@ -21,7 +21,8 @@ navigation:
   url: /blog/
 - text: Archive
   url : /archive/
-
+- text: Tags
+  url: /tags/
 # Author Details
 author:         'Geri Gjylbegu'
 #linkedin:       'https://ae.linkedin.com/in/olakara/'
