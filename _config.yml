@@ -21,15 +21,11 @@ navigation:
   url: /blog/
 - text: Archive
   url : /archive/
-- text: Tags
-  url: /tags/
-- text:Geri
-  url:
 # Author Details
 author:         'Geri Gjylbegu'
 #linkedin:       'https://ae.linkedin.com/in/olakara/'
 #twitter:        'https://twitter.com/olakara'
-#facebook:       'https://www.facebook.com/olakara'
+#facebook:       'https://www.facebook.com/gerigjylbegu'
 #gplus:          'https://plus.google.com/100425464897246255887/'
 
 # Google Analytics
