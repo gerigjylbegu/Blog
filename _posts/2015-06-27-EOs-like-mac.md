@@ -6,7 +6,7 @@ categories: software
 tags: Linux Elementary
 ---
 
-To make elementary os like macc you need a couple of things.First you need to now that elementary os freya doesn't support wingpannel yet so if you want to ,install an older version like Luna or Isis.
+To make Elementary Os like mac you need a couple of things.First you need to now that elementary os freya doesn't support super wingpannel yet so if you want to ,install an older version like Elementary Os Luna or Isis.
 First write these on terminal:
 
 ```
@@ -36,6 +36,7 @@ Now you need plank theme ,which you can download it [here](https://github.com/fs
 ```
 $sudo mv Downloads/Capeos /usr/share/plank/themes/
 ```
+
 Go to elementary tweaks,then plank and to Theme chose capeos.
 The third thing you need to do is to install super wingpanel,but there is no version for freya yet.
 This is how to make Elementary os like mac.
