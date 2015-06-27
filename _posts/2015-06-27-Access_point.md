@@ -13,6 +13,7 @@ First go to [this](https://gist.github.com/dashohoxha/5767262) webpage and downl
 ```
 chmod +x Downloads/install_access_point.sh
 ```
+
 ```
 ./Downloads/install_access_point.sh
 ```
@@ -23,6 +24,7 @@ To start or stop write :
 ```    
  service wifi_access_point start
 ```
+
 ``` 
 service wifi_access_point stop
 ```
