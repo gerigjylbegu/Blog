@@ -23,9 +23,7 @@ sudo mv Downloads/XGTK /usr/share/themes/
 If you're using Freya install elementary tweaks.
 
 ```
->sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
->sudo apt-get update
->sudo apt-get install elementary-tweaks
+sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily & apt-get update & apt-get install elementary-tweaks
 ```
 
 <img src="http://1.bp.blogspot.com/-Rylts2gpKH4/VSz3nFNsFbI/AAAAAAAAWG8/t1dD-YXBbNU/s1600/elementary-tweaks-system-settings.png" width="750" height="500">
