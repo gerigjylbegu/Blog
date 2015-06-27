@@ -22,9 +22,9 @@ sudo mv Downloads/XGTK /usr/share/themes/
 If you're using Freya install elementary tweaks.
 
 ---
-sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
-sudo apt-get update
-sudo apt-get install elementary-tweaks
+$sudo add-apt-repository ppa:mpstark/elementary-tweaks-daily
+$sudo apt-get update
+$sudo apt-get install elementary-tweaks
 ---
 
 <img src="http://1.bp.blogspot.com/-Rylts2gpKH4/VSz3nFNsFbI/AAAAAAAAWG8/t1dD-YXBbNU/s1600/elementary-tweaks-system-settings.png">
@@ -33,7 +33,7 @@ Open Elementary tweaks then choose the theme you want at Appereance changing Met
 Now you need plank theme ,which you can download it [here](https://github.com/fsvh/plank-themes).Extract only Capeos file to Downloads then open terminal and write:
 
 ---
-sudo mv Downloads/Capeos /usr/share/plank/themes/
+$sudo mv Downloads/Capeos /usr/share/plank/themes/
 ---
 Go to elementary tweaks,then plank and to Theme chose capeos.
 The third thing you need to do is to install super wingpanel,but there is no version for freya yet.
