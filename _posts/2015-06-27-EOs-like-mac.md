@@ -28,7 +28,7 @@ $sudo apt-get update
 $sudo apt-get install elementary-tweaks
 ```
 
-<img src="http://1.bp.blogspot.com/-Rylts2gpKH4/VSz3nFNsFbI/AAAAAAAAWG8/t1dD-YXBbNU/s1600/elementary-tweaks-system-settings.png" width="650" height="500">
+<img src="http://1.bp.blogspot.com/-Rylts2gpKH4/VSz3nFNsFbI/AAAAAAAAWG8/t1dD-YXBbNU/s1600/elementary-tweaks-system-settings.png" width="750" height="500">
 
 Open Elementary tweaks then choose the theme you want at Appereance changing Metacity Theme and GTK+ Theme to XGTK.
 Now you need plank theme ,which you can download it [here](https://github.com/fsvh/plank-themes).Extract only Capeos file to Downloads then open terminal and write:
